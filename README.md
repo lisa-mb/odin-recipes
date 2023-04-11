@@ -1,2 +1,2 @@
 # odin-recipes
-A website with a few chocolaty recipes that i use to learn html :)
+A website with a few chocolaty recipes that I use to learn html :)
