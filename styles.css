@@ -1,0 +1,41 @@
+body {
+  font-family: Papyrus, Copperplate, Fantasy;
+  color: rgb(55, 39, 39);
+  text-align: center;
+  background-color: rgb(152, 116, 116);
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+
+a {
+  text-decoration: none;
+  color: wheat;
+  font-size: 30px;
+}
+
+.recipeOverview,
+ul li{
+  list-style: none;
+}
+
+li {
+  list-style-position: inside;
+}
+
+img {
+  height: 400px;
+  width: auto;
+}
+
+p,
+li {
+  color: wheat;
+  font-size: 20px;
+}
